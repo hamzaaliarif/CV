@@ -1,1 +1,25 @@
+ body {background-color:coral} 
+
+ hr{
+
+   border-style:none ;
+
+   border-top-style:dotted;
+
+   color: yellow;
+
+   width: 30%;
+
+   border-width: 7px;
+
+ }
+
+ h1
+
+{
+
+  color: blue;
+
+}
+
 
